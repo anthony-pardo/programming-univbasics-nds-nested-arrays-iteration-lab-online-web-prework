@@ -13,6 +13,7 @@ def join_ingredients(src)
     arr.push(sentence)
     row_index += 1 
   end
+  arr
 end
 
 def find_greater_pair(src)
